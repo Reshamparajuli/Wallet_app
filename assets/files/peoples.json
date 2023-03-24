@@ -1,0 +1,39 @@
+{
+    "peoples":[
+    {
+        "name":"Prakxit Poudel",
+        "image":"assets/prakxit.jpg"
+
+
+    },
+    {
+        "name":"Paul marcello",
+        "image":"assets/Paul.jpg"
+    },
+    {
+        "name":"Johny mark",
+        "image":"assets/johny.jpg"
+    },
+
+    
+    {
+        "name":"Govinda Pandey",
+        "image":"assets/govinda.jpg"
+    },
+    {
+        "name":"Rabin Tamang",
+        "image":"assets/rabin.jpg"
+    },
+    {
+        "name":"John Biden",
+        "image":"assets/normal.jpg"
+    },
+    {
+        "name":"Kiran Kumal ",
+        "image":"assets/kiran.jpg"
+    }
+    
+        
+
+    ]
+}
